@@ -1,0 +1,23 @@
+.navbar{
+    font-size: 14px;
+    line-height: 25.6px;
+    padding:30px 30px
+}
+.nav-link{
+    font-size: 16px;
+    text-decoration-color: rgb(205, 162, 72);
+    text-decoration: underline;
+}
+.fa1{
+    color:rgb(205, 162, 72);
+    font-size: 12px ;
+    size:12px;
+    line-height: 12px;
+}
+.collapse{
+    color: rgb(85, 85, 84);
+    display: inline-block;
+    font-size: 16px;
+    font-stretch: 100%;
+    line-height: 16px;
+}

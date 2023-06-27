@@ -1,0 +1,38 @@
+.box-banner{
+    margin-left:80px;
+    position: relative;
+    top: 50%;
+    margin-top: 200px;
+    text-align:left;
+   
+  }
+
+  .container2{
+    position: relative;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 25.6px;
+    font-weight: 400;
+    color: #1b1a17;
+  margin-top: 0px;
+  display: block;
+  float:right;
+
+  background: #cda248;
+  background-image: url(https://gico.io/apoha/images/icons/telephone-icon-2.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 40px 10px 30px;
+  }
+  .btn{
+  background-color: #F5C419;
+  color: #e8e683;
+  position: absolute;
+  padding:20px 30px;
+  font-size: 18px;
+  font-weight: 600;
+margin-top: 100px;
+  text-transform: uppercase;
+}

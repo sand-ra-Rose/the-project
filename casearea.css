@@ -1,0 +1,176 @@
+.case-area {
+    padding: 100px 0 70px;
+    overflow: hidden;
+
+  }
+  .my-title {
+    margin-top: 50px;
+  }
+  .case-area .container {
+    max-width: 1100px;
+  }
+  
+  .case-area .my-title h2 {
+    color: #ffffff;
+  }
+  .case-area .my-title p {
+    color: #ffffff;
+  }
+  .case-area .button-col {
+    margin-top: 0px;
+  }
+  .case-col {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+  .case-col:hover {
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    transform: scale(1.05);
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+  .case-col img {
+    width: 100%;
+    height: auto;
+  }
+  .case-col-content {
+    background: #CDA248;
+    padding: 12px 20px;
+  }
+  .case-col-content a i {
+    width: 40px;
+    height: 40px;
+    background: #ffffff;
+    color: #CDA248;
+    font-size: 16px;
+    line-height: 40px;
+    text-align: center;
+    float: left;
+    margin-right: 10px;
+  }
+  .case-col-content h5 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-top: 5px;
+    margin-bottom: 0;
+  }
+  .case-col-content h5 a {
+    color: #ffffff;
+  }
+  .call-text {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .call-text h5 {
+    font-size: 20px;
+    color: #ffffff;
+    margin-bottom: 0;
+  }
+  
+  
+  /* Case Two CSS */
+  .case-two-area {
+    padding: 100px 0;
+    background: #1A1A1A;
+  }
+
+  .case-two-col .gallery-nav {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .case-two-col .gallery-nav ul li {
+    display: inline-block;
+    margin: 0 -2px;
+  }
+  .case-two-col .gallery-nav ul li a {
+    color: #ffffff;
+    padding: 10px 30px;
+    border-left: 1px solid #ffffff;
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+  }
+  .case-two-col .gallery-nav ul li:last-child a {
+    border-right: 1px solid #ffffff
+  }
+  .case-two-col .gallery-nav ul li a.active {
+    background: #CDA248;
+  }
+  .case-two-col .item {
+    width: 23.55%;
+  }
+  
+  
+  /* Case Single CSS */
+  .case-single-area {
+    padding: 100px 0 70px;
+  }
+  .sub-col {
+    margin-bottom: 30px;
+  }
+  .sub-col ul {
+    padding-left: 20px;
+  }
+  .sub-col ul li {
+    margin-bottom: 15px;
+  }
+  .case-single-box {
+    margin-bottom: 30px;
+  }
+  .case-single-box h4 {
+    margin-top: 30px;
+  }
+  .case-single-social {
+    margin-top: 60px;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  .case-single-social ul li {
+    display: inline-block;
+    margin: 0 15px;
+  }
+  .case-single-social ul li a {
+    color: #909090;
+  }
+  .case-single-social ul li a:hover {
+    color: #CDA248;
+  }
+  .case-single-social ul li a i {
+    font-size: 20px;
+  }
+  .page-link-col .btn {
+    font-family: 'Merriweather', serif;
+    background: #FFFAF5;
+    border: none;
+    height: 55px;
+    color: #cda248;
+    line-height: 45px;
+    border-radius: 0;
+    text-transform: capitalize;
+  }
+  .page-link-col .btn:hover {
+    color: #ffffff;
+    background: #CDA248;
+  }
+  .middle-btn .btn {
+    background: transparent;
+    border: 1px solid #dddddd;
+    width: 60px;
+  }
+  .middle-btn .btn i {
+    line-height: 40px;
+  }
+  .page-link-col {
+    margin-bottom: 30px;
+  }
+  

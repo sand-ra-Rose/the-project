@@ -1,0 +1,72 @@
+.call-area {
+    padding: 100px 0 70px ;
+    margin-top: 600px;
+    overflow: hidden;
+  }
+  .call-col {
+    margin-bottom: 40px;
+  }
+  .call-col .my-title {
+    margin-bottom: 0;
+  }
+  .call-col .my-title p {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #1b1a17;
+    margin-bottom: 10px;
+  }
+  .call-col ul {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-left: 1px solid #cda248;
+    padding-left: 10px;
+  }
+  .call-col ul li {
+    margin-bottom: 3px;
+  }
+  .mb-30 {
+    margin-bottom: 30px;
+  }
+  .call-box {
+    background: #cda248;
+    padding: 15px;
+  }
+  .call-box-content {
+    border: 1px solid #ffffff;
+    padding: 45px 25px 15px;
+    text-align: center;
+  }
+  .call-box-content h2 {
+    font-size: 40px;
+    color: #ffffff;
+    line-height: 55px;
+  }
+  .call-box-content h4 {
+    color: #ffffff;
+    margin-bottom: 25px;
+  }
+  .call-box-content p {
+    color: #ffffff;
+  }
+  .call-box-content .my-bdr {
+    width: 150px;
+    height: 1px;
+    background: #ffffff;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    margin-top: 25px;
+  }
+  .call-box-content .btn {
+    width: 165px;
+    height: 55px;
+    background: #ffffff;
+    border-radius: 0;
+    border: none;
+    color: #CDA248;
+    font-size: 16px;
+    line-height: 42px;
+    font-family: 'Merriweather', serif;
+    float: right;
+    margin-top: 35px;
+  }

@@ -1,0 +1,37 @@
+.help-area .container {
+height:150vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  .help-col {
+    padding: 60px 80px;
+    background: #ffffff;
+    margin: 100px 0;
+  }
+  .help-col .my-title {
+    margin-bottom: 20px;
+  }
+  .help-col .my-title h2 {
+    margin-bottom: 0;
+  }
+  .help-col .form-control {
+    border-radius: 15px;
+    height: 52px;
+    border-color: #e6e6e6;
+  }
+  .help-col .btn {
+    background: #CDA248;
+    padding: 20px 40px;
+    font-size: 16px;
+    font-family: 'Merriweather', serif;
+    border-radius: 15px;
+    border: none;
+    margin-bottom: 30px;
+    position: relative;
+    position: center;
+  }
+  .help-col span {
+    color: #cda248;
+  }

@@ -1,0 +1,48 @@
+.title{
+    text-align: center;
+  
+}
+.containerL{
+    padding:100px 0px 200px 00px;
+    background:#EBE7DD;
+    max-width: 1450px;
+    
+
+}
+.buttom-col
+{
+    text-align:center;
+    margin-top: 10px;
+}
+.card{
+   
+    position: relative;
+    margin-bottom: 85px;  
+
+}
+
+.my-btn 
+{
+    background-color: #F5C419;
+    color: #e8e683;
+    position: absolute;
+    padding:20px 30px;
+    font-size: 18px;
+    font-weight: 600;
+margin-top: 100px;
+    text-transform: uppercase;
+}
+.card-img{
+    width: auto;
+    height: auto;
+    padding: 30px 30px;
+    background: #ffffff;
+    overflow:hidden;
+}
+.card-body{
+    text-align: center;
+    padding :20px 20px;
+    position: absolute;
+   
+       
+}

@@ -1,0 +1,47 @@
+.counter-area {
+  background: transparent;
+    padding: 100px 0 70px;
+}
+.counter-col {
+  background: #ffffff;
+  padding: 100px 50px 70px;
+  margin-top: -220px;
+}
+.counter-box {
+  text-align: center;
+  padding: 50px 30px;
+  margin-bottom: 30px;
+  background: #ffffff;
+  border-radius: 45px;
+  -webkit-box-shadow: 0px 0px 14px 0px rgba(212,212,212,0.35);
+  -moz-box-shadow: 0px 0px 14px 0px rgba(212,212,212,0.35);
+  box-shadow: 0px 0px 14px 0px rgba(212,212,212,0.35);
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+.counter-box:hover {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  transform: scale(1.1);
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+.counter-box img {
+  margin-bottom: 15px;
+}
+.counter-box h5 {
+  margin-bottom: 15px;
+}
+.counter-box .count {
+  font-size: 40px;
+  line-height: 46px;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+}
